@@ -1,13 +1,3 @@
-/******************************************************************************
- *  Compilation:  javac StdOut.java
- *  Execution:    java StdOut
- *  Dependencies: none
- *
- *  Writes data of various types to standard output.
- *
- ******************************************************************************/
-
-package edu.princeton.cs.algs4;
 
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
