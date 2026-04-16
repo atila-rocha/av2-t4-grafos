@@ -1,3 +1,7 @@
+Video explicativo sobre o trabalho.
+
+https://youtu.be/4hMZbKPZwV8
+
 # av2-t4-grafos
 
 ## Contexto do repositório
